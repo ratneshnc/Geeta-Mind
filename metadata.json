@@ -1,0 +1,6 @@
+{
+  "name": "GitaMind AI",
+  "description": "A scripture-grounded conversational personal guidance companion rooted strictly in Vedabase.io (Bhagavad-gītā As It Is) with deterministic verse validation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
